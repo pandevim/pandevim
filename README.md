@@ -5,7 +5,7 @@ Currently working on Build Systems.
 
 <table><tr><td valign="top" width="33%"><br>
 
-![water](https://user-images.githubusercontent.com/31156696/87564560-2d1aec80-c6de-11ea-8296-70367a716a6d.gif)
+
 ### Social Links
 [Twitter](https://twitter.com/bskrani)
 [Dribbble](https://dribbble.com/pandevim)
@@ -17,11 +17,16 @@ Currently working on Build Systems.
 [Website](https://pandevim.github.io)
 
 </td><td valign="top" width="34%"><br>
-
-I'm going to put something here soon
+  
+![circle](https://user-images.githubusercontent.com/31156696/87568364-2c388980-c6e3-11ea-899e-5d1e60100598.gif)
 
 </td><td valign="top" width="33%"><br>
 
+### Webrings
+[Blank]()
+[Blank]()
+[Blank]()
+[Blank]()
 
 
 </td></tr></table>
