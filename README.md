@@ -18,7 +18,7 @@ Currently working on Build Systems.
 
 </td><td valign="top" width="34%">
 
-### [openFrameworks/cc](https://openframeworks.cc)
+### [openFrameworks/C++](https://openframeworks.cc)
 <!--- ![circle](https://user-images.githubusercontent.com/31156696/87568364-2c388980-c6e3-11ea-899e-5d1e60100598.gif) --->
 <!--- ![grid](https://user-images.githubusercontent.com/31156696/87635823-5333a180-c75d-11ea-9eb6-c1f8ddd8e7a1.gif) --->
 <!--- ![flower](https://user-images.githubusercontent.com/31156696/87635961-8a09b780-c75d-11ea-8fc9-50044bc68839.gif) --->
