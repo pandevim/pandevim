@@ -16,6 +16,7 @@ Currently working on Build Systems.
 [Linkedin](https://www.linkedin.com/in/pandevim)
 [Are.na](https://www.are.na/aniruddha-pandey)
 [pixiv](https://www.pixiv.net/en/users/44125017)
+[mastodon](https://mastodon.gamedev.place/web/accounts/66981)
 [Hashnode](https://hashnode.com/@pandevim)
 [devRant](https://devrant.com/users/pandevi)
 [StackOverflow](https://stackoverflow.com/users/8240271/aniruddha-pandeym)
