@@ -19,6 +19,7 @@ Currently working on Build Systems.
 [mastodon](https://mastodon.gamedev.place/web/accounts/66981)
 [Hashnode](https://hashnode.com/@pandevim)
 [devRant](https://devrant.com/users/pandevi)
+[Ko-fi](https://ko-fi.com/pandevi)
 [StackOverflow](https://stackoverflow.com/users/8240271/aniruddha-pandeym)
 [Resume](https://docs.google.com/document/d/1HrKAXePsgqeXldzw6m9XfXRD2oMqKShUpv2wL7kHNL0/edit?usp=sharing)
 [Website](https://pandevim.github.io)
