@@ -8,6 +8,7 @@ Currently working on Build Systems.
 
 ### Social Links
 [Twitter](https://twitter.com/bskrani)
+[DEV](https://dev.to/pandevim)
 [Dribbble](https://dribbble.com/pandevim)
 [Angel](https://angel.co/pandevim)
 [Behance](https://www.behance.net/pandevim)
