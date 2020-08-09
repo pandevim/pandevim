@@ -15,6 +15,7 @@ Currently working on Build Systems.
 [ArtStation](https://www.artstation.com/aniruddhapandey)
 [Linkedin](https://www.linkedin.com/in/pandevim)
 [Are.na](https://www.are.na/aniruddha-pandey)
+[pixiv](https://www.pixiv.net/en/users/44125017)
 [Hashnode](https://hashnode.com/@pandevim)
 [devRant](https://devrant.com/users/pandevi)
 [StackOverflow](https://stackoverflow.com/users/8240271/aniruddha-pandeym)
