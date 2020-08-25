@@ -17,7 +17,7 @@ Currently working on Build Systems.
 [ArtStation](https://www.artstation.com/aniruddhapandey)
 [CODEPEN](https://codepen.io/pandevim)
 [Reddit](https://www.reddit.com/user/aniruddha0pandey)
-[Linkedin](https://www.linkedin.com/in/pandevim)
+[Scratch](https://scratch.mit.edu/users/pandevim)
 [Are.na](https://www.are.na/aniruddha-pandey)
 [pixiv](https://www.pixiv.net/en/users/44125017)
 [mastodon](https://mastodon.gamedev.place/web/accounts/66981)
@@ -25,6 +25,8 @@ Currently working on Build Systems.
 [devRant](https://devrant.com/users/pandevi)
 [Ko-fi](https://ko-fi.com/pandevi)
 [StackOverflow](https://stackoverflow.com/users/8240271/aniruddha-pandeym)
+
+[Linkedin](https://www.linkedin.com/in/pandevim)
 [Resume]()
 [Website](https://pandevim.github.io)
 
