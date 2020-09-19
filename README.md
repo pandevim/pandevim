@@ -27,8 +27,8 @@ Currently working on Build Systems.
 [StackOverflow](https://stackoverflow.com/users/8240271/aniruddha-pandeym)
 
 [Linkedin](https://www.linkedin.com/in/pandevim)
-[Resume]()
-[Website](https://pandevim.github.io)
+[Resume](https://aniruddha-pandey.tech/2020/resume.pdf)
+[Website](https://aniruddha-pandey.tech)
 
 </td><td valign="top" width="34%">
 
