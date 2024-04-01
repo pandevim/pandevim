@@ -26,8 +26,6 @@ Currently working on collision system.
 [Ko-fi](https://ko-fi.com/pandevi)
 [StackOverflow](https://stackoverflow.com/users/8240271/aniruddha-pandeym)
 
-[Linkedin](https://www.linkedin.com/in/pandevim)
-[Resume](https://pandevim.github.io/Aniruddha%20Pandey%20Resume%202024.pdf)
 [Website](https://pandevim.github.io)
 
 </td><td valign="top" width="34%">
